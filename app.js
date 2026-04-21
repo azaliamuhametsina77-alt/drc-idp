@@ -64,18 +64,18 @@ const MODES = {
   idps: {
     legendTitle: 'Интенсивность',
     legendMin: '0',
-    info: 'Эта карта показывает число внутренне перемещённых лиц по провинциям ДР Конго. Чем темнее синий цвет — тем больше ВПЛ зафиксировано в провинции. При наведении или клике показываются точные значения и методология. <br><br>Источник данных: International Organisation for Migration (IOM), Displacement Tracking Matrix (DTM), Democratic Republic of the Congo, Country Displacement Overview.'
+    info: 'Эта карта показывает число внутренне перемещенных лиц по провинциям ДР Конго. Чем темнее синий цвет — тем больше ВПЛ зафиксировано в провинции. При наведении или клике показываются точные значения. <br><br>Источник данных: International Organisation for Migration (IOM), Displacement Tracking Matrix (DTM), Democratic Republic of the Congo, Country Displacement Overview.'
   },
   returnees: {
     legendTitle: 'Интенсивность',
     legendMin: '0',
-    info: 'Этот режим показывает число возвращенцев по провинциям ДР Конго. Чем темнее синий цвет — тем больше людей были учтены как returnees. При наведении или клике показываются точные значения и методология. <br><br>Источник данных: International Organisation for Migration (IOM), Displacement Tracking Matrix (DTM), Democratic Republic of the Congo, Country Displacement Overview.'
+    info: 'Эта карта показывает число возвращенцев по провинциям ДР Конго. Чем темнее синий цвет — тем больше людей были учтены как возвращенцы. При наведении или клике показываются точные значения. <br><br>Источник данных: International Organisation for Migration (IOM), Displacement Tracking Matrix (DTM), Democratic Republic of the Congo, Country Displacement Overview.'
   },
   balance: {
     legendTitle: 'Сравнение',
-    legendMin: 'ВПЛ ≥ возвращенцев',
+    legendMin: 'ВПЛ больше',
     legendMax: 'Возвращенцев больше',
-    info: 'Этот режим показывает, где число возвращенцев превышает число внутренне перемещённых лиц. Голубым выделены провинции, где возвращенцев больше, чем ВПЛ. Тёмным — провинции, где ВПЛ больше, показатели равны или данных недостаточно для сравнения. <br><br>Источник данных: International Organisation for Migration (IOM), Displacement Tracking Matrix (DTM), Democratic Republic of the Congo, Country Displacement Overview.'
+    info: 'Эта карта показывает, где число возвращенцев превышает число внутренне перемещенных лиц. Голубым выделены провинции, где возвращенцев больше, чем ВПЛ. Черным — провинции, где ВПЛ больше, показатели равны или данных недостаточно для сравнения. <br><br>Источник данных: International Organisation for Migration (IOM), Displacement Tracking Matrix (DTM), Democratic Republic of the Congo, Country Displacement Overview.'
   }
 };
 
